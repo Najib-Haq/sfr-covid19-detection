@@ -4,7 +4,6 @@
 ![header](https://user-images.githubusercontent.com/36858976/119347450-5c669680-bcbd-11eb-97bd-f6d666b59cda.png)
 
 Below you can find a outline of how to reproduce our solution.
-If you run into any trouble with the setup/code or have any questions please contact me at awsaf49@gmail.com
 
 ## 1. Requirements:
 
@@ -161,3 +160,5 @@ or
 ## Acknowledgement ❤️
 * [Weights & Biases](https://wandb.ai/) for tracking **training**.
 * [efficientnet](https://github.com/qubvel/efficientnet) for **efficientnet** model.
+
+#### Prepared By Team RTX 4090
